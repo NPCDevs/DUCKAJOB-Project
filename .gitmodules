@@ -4,3 +4,6 @@
 [submodule "DUCKAJOB-Client"]
 	path = DUCKAJOB-Client
 	url = https://github.com/NPCDevs/DUCKAJOB-Client.git
+[submodule "DUCKAJOB-Contract"]
+	path = DUCKAJOB-Contract
+	url = https://github.com/NPCDevs/DUCKAJOB-Contract.git
