@@ -1,0 +1,3 @@
+[submodule "DUCKAJOB-Server"]
+	path = DUCKAJOB-Server
+	url = https://github.com/NPCDevs/DUCKAJOB-Server.git
